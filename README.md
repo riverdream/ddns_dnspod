@@ -6,9 +6,9 @@
 
 非开发人员可以直接下载使用：
 
-Linux版本下载：[Linux_x86_ddns-64bit](http://download.sinkiot.com/2017/dnspod/linux_x86_ddns-64bit)
+Linux版本下载：[Linux_x86_ddns-64bit](http://download.pengjx.com/2017/dnspod/linux_x86_ddns-64bit)
 
-Windows版本下载：[Windows_x86_ddns-64bit.exe](http://download.sinkiot.com/2017/dnspod/windows_x86_ddns-64bit.exe)
+Windows版本下载：[Windows_x86_ddns-64bit.exe](http://download.pengjx.com/2017/dnspod/windows_x86_ddns-64bit.exe)
 
 使用的格式如下：
 
