@@ -26,10 +26,10 @@ https://www.dnspod.cn/docs/info.html
 
 https://www.dnspod.cn/docs/domains.html#domain-list
 
-curl --user-agent "pengjx DDNS Client/1.0.0 (riverdream@yeah.net)" -X POST https://dnsapi.cn/Domain.List -d 'login_token=id,token'
+curl --user-agent "pengjx DDNS Client/1.0.0 (yourmail@yeah.net)" -X POST https://dnsapi.cn/Domain.List -d 'login_token=id,token'
 
 2、获取 sub doman id
 
 https://www.dnspod.cn/docs/records.html#record-list
 
-curl --user-agent "pengjx DDNS Client/1.0.0 (riverdream@yeah.net)" -X POST https://dnsapi.cn/Record.List  -d 'login_token=id,token&domain_id=xxxxx'
+curl --user-agent "pengjx DDNS Client/1.0.0 (yourmail@yeah.net)" -X POST https://dnsapi.cn/Record.List  -d 'login_token=id,token&domain_id=xxxxx'
