@@ -74,7 +74,7 @@ func ddns(params string) {
 	client := &http.Client{Transport: tr}
 
 	req, err := http.NewRequest("POST", "https://dnsapi.cn/Record.Ddns", bytes.NewReader([]byte(params)))
-	req.Header.Set("UserAgent", "pengjx DDNS Client/1.0.0 (riverdream@yeah.net)")
+	req.Header.Set("UserAgent", "pengjx DDNS Client/1.0.0 (yourmail@yeah.net)")
 	req.Header.Set("Content-type", "application/x-www-form-urlencoded")
 	req.Header.Set("Accept", "text/json")
 
