@@ -2,7 +2,7 @@
 
 使用[dnspod](https://www.dnspod.cn/)作为动态域名时，本地需要定时检查ip地址是否变化，并把变化的地址更新到服务器。
 
-代码使用golang语言，若要配置golang开发环境请参考[Golang开发环境配置](http://www.pengjx.com/posts/2017/04/23/golang-developer.html)
+代码使用golang语言，若要配置golang开发环境请参考[Golang开发环境配置](https://www.jianshu.com/p/8eb8efbfb4d1)
 
 非开发人员可以直接下载使用：
 
