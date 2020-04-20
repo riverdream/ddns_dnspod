@@ -6,9 +6,9 @@
 
 非开发人员可以直接下载使用：
 
-Linux版本下载：[Linux_x86_ddns-64bit](http://download.pengjx.com/2017/dnspod/linux_x86_ddns-64bit)
+Linux版本下载：[Linux_x86_ddns-64bit](http://download.com/2017/dnspod/linux_x86_ddns-64bit)
 
-Windows版本下载：[Windows_x86_ddns-64bit.exe](http://download.pengjx.com/2017/dnspod/windows_x86_ddns-64bit.exe)
+Windows版本下载：[Windows_x86_ddns-64bit.exe](http://download.com/2017/dnspod/windows_x86_ddns-64bit.exe)
 
 使用的格式如下：
 
@@ -26,10 +26,10 @@ https://www.dnspod.cn/docs/info.html
 
 https://www.dnspod.cn/docs/domains.html#domain-list
 
-curl --user-agent "pengjx DDNS Client/1.0.0 (yourmail@yeah.net)" -X POST https://dnsapi.cn/Domain.List -d 'login_token=id,token'
+curl --user-agent "name DDNS Client/1.0.0 (yourmail@yeah.net)" -X POST https://dnsapi.cn/Domain.List -d 'login_token=id,token'
 
 2、获取 sub doman id
 
 https://www.dnspod.cn/docs/records.html#record-list
 
-curl --user-agent "pengjx DDNS Client/1.0.0 (yourmail@yeah.net)" -X POST https://dnsapi.cn/Record.List  -d 'login_token=id,token&domain_id=xxxxx'
+curl --user-agent "name DDNS Client/1.0.0 (yourmail@yeah.net)" -X POST https://dnsapi.cn/Record.List  -d 'login_token=id,token&domain_id=xxxxx'
